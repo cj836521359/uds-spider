@@ -1,0 +1,2 @@
+cd Log
+del *.log
